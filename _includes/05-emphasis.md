@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Awesome!* :smirk:
+**Powerful**
+_**Forgiving**_
+_Very **Fearless**_ :wave:
